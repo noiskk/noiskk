@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![mazandi profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zionzion00)
