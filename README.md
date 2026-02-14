@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![mazandi profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zionzion00)
+<!--![mazandi profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zionzion00)-->
